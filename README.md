@@ -52,13 +52,7 @@
 **Ticket Booking Page**  
 ![Ticket Booking](assets/screenshots/Tickets.png)
 
-**User Profile Page**  
-![User Profile](assets/screenshots/Profile.png)
 
-**Admin Panel – Add New Train**  
-![Admin Panel](assets/screenshots/addNewTrain.png)
-
----
 
 ## 📁 Project Structure
 
