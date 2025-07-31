@@ -46,11 +46,7 @@
 **Train Listings Page**  
 ![Train Listings](assets/screenshots/trains.png)
 
-**Train Details Page**  
-![Train Details](assets/screenshots/TrainDetails.png)
 
-**Ticket Booking Page**  
-![Ticket Booking](assets/screenshots/Tickets.png)
 
 
 
